@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Atishay Jain
-- 👀 I’m interested in Java, Python, C programming, HTML, CSS, SQL.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Development Project
+- 👋 Hi, I’m Atishay Jain.
+- 👀 I’m interested in Python, Web Development.
+- 🌱 I’m currently learning Data Structure and React.
+- 💞️ I’m looking to collaborate on Web Development Project.
 - 📫 How to reach me jain.atishay072@gmail.com
 
 <!---
